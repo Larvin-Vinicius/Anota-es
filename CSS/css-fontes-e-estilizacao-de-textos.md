@@ -48,7 +48,7 @@ body {
 
 ## Font Style
 
-* font-style
+* `font-style`
 
 Define um estilo ao texto com quatro possiveis valores: italic, normal, inherit e oblique.
 Os mais utilizados são: normal e italic
@@ -63,7 +63,7 @@ Os mais utilizados são: normal e italic
 
 ## Font Weight
 
-* font-weight
+* `font-weight`
 
 Altera a largura da letra e pode aplicar a caracteristica de negrito, a propriedade aceita valores numericos ou quatro valores especificos: normal, bold, bolder, lighter e inherit;
 
@@ -88,3 +88,37 @@ Para referencia:
 
 * `font-weight: normal` = 400
 * `font-weight: bold` = 700
+
+## Line Height
+
+* `line-height`
+
+Define a altura da linha de um texto utilizando valoes de comprimento do css. Uma pratica recomendada é utilizar 150% ou 1.5 que define 1.5 x maior que a fonte atual. Para melhor controle utilize os pixels.
+
+* Também pode ser utilizada para centralizar verticalmente uma unica linha de texto definindo um valor para line-height e para height iguais
+
+```CSS
+.btn {
+  height: 22px;
+  line-height: 22px;
+}
+```
+
+## Abreviandos as propriedades de fonte
+
+* `font`
+
+Na seguinte ordem:
+
+`font: font-style, font-variant, font-weight, font-size, line-height, font-family.`
+
+* Os valores  de font-family devem ser separados por virgula
+* `font-size` e `line-height` deve ser separado por \
+
+```css
+html {
+  font: italic small-caps bold 14px/22px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+```
+
+
