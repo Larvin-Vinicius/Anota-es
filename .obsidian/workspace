@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "anotacoes/CSS/Colapso de margens.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "anotacoes/CSS/Colapso de margens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,13 @@
   },
   "active": "e42e0ac3766b8191",
   "lastOpenFiles": [
-    "README.md",
-    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md"
+    "anotacoes/CSS/Colapso de margens.md",
+    "imagens/coplapso-de-margens-pai-e-filho-top-bottom-2.png",
+    "imagens/coplapso-de-margens-exemplo.png",
+    "imagens/coplapso-de-margens sem altura.png",
+    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+    "imagens/coplapso-de-margens-irmaos.png",
+    "imagens/coplapso-de-margens-pai-e-filho-top-bottom.png",
+    "README.md"
   ]
 }
