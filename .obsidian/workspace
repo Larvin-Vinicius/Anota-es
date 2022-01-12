@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "e42e0ac3766b8191",
   "lastOpenFiles": [
-    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
-    "README.md"
+    "README.md",
+    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md"
   ]
 }
