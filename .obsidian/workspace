@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e42e0ac3766b8191",
+        "id": "e25c65898212a4c5",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "imagens/coplapso-de-margens exemplo.png"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens/coplapso-de-margens exemplo.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e42e0ac3766b8191",
+  "active": "e25c65898212a4c5",
   "lastOpenFiles": [
+    "README.md",
+    "anotacoes/CSS/Fontes e estilizacao de textos.md",
+    "anotacoes/CSS/Colapso de margens.md",
+    "imagens/coplapso-de-margens sem altura.png",
     "imagens/coplapso-de-margens exemplo.png",
     "imagens/coplapso-de-margens-pai-e-filho-bottom.png",
     "imagens/coplapso-de-margens-irmaos.png",
-    "imagens/coplapso-de-margens sem altura.png",
     "imagens/coplapso-de-margens-pai-e-filho-top.png",
-    "anotacoes/CSS/Colapso de margens.md",
     "imagens/coplapso-de-margens-exemplo-01.png",
-    "imagens/coplapso-de-margens-pai-e-filho-top-bottom.png",
-    "imagens/coplapso-de-margens-pai-e-filho-top-bottom-2.png",
-    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md"
+    "imagens/coplapso-de-margens-pai-e-filho-top-bottom.png"
   ]
 }
