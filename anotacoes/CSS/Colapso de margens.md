@@ -33,6 +33,8 @@ p {
 }
 ```
 
+![coplapso-de-margens-exemplo-01.png](https://github.com/Larvin-Vinicius/Notas/blob/main/imagens/coplapso-de-margens-exemplo-01.png?raw=true)
+
 ## Quando os recolhimentos de margem ocorrem.
 
 Margem do elemento pai e filho se tocam. Margem superior do pai com a do filho e margem inferior do pai com a do filho.
