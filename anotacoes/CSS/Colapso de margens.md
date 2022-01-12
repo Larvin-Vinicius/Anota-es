@@ -47,7 +47,7 @@ Entre elementos “irmãos”, quando a margem inferior de um e superior do outr
 
 Quando o elemento não tem altura, as suas margens inferior e superior somem.
 
-![coplapso-de-margens sem altura.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1bd8f968-3d63-4365-b47a-5fcd2d9ffbba/coplapso-de-margens_sem_altura.png)
+![coplapso-de-margens sem altura.png](https://github.com/Larvin-Vinicius/Notas/blob/main/imagens/coplapso-de-margens%20sem%20altura.png?raw=true)
 
 ### Como evitar o colapso entre elementos pai e filho.
 
