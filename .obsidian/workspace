@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b7c8853050b050ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42e0ac3766b8191",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b4f87c6e3ab5aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b96403e478831f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f848144086dc0973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73cf3c19283d2bd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e79669ebbcf68d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2c253cd0d25000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4377b9538eda91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e42e0ac3766b8191",
+  "lastOpenFiles": [
+    "anotacoes/CSS/css-fontes-e-estilizacao-de-textos.md",
+    "README.md"
+  ]
+}
